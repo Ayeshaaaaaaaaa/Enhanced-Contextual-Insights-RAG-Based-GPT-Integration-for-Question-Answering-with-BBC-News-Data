@@ -1,0 +1,2 @@
+# Enhanced-Contextual-Insights-RAG-Based-GPT-Integration-for-Question-Answering-with-BBC-News-Data
+This project integrates RAG techniques with GPT-2 for advanced question-answering using BBC news articles. It employs FAISS for efficient document retrieval and SentenceTransformer for embeddings, providing detailed and contextually accurate answers by combining article content with publication dates.
